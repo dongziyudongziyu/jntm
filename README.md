@@ -7,6 +7,9 @@
 pyinstaller -Fw --add-data "sounds:sounds" jntm.py
 ```
 
+### download
+[jntm.exe](https://github.com/dongziyudongziyu/jntm/blob/main/dist/jntm.exe)
+
 ### run
 双击exe文件执行即可。
 
